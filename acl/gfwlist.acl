@@ -4,6 +4,7 @@
 
 [proxy_list]
 # 自定义$
+(^|\.)coze\.com$
 (^|\.)apkpure\.net$
 (^|\.)perplexity\.ai$
 (^|\.)poe\.com$
